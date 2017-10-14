@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Winhe.Mvc.Batch03.WebApi2
+namespace Winhe.Mvc.Batch03.Mvc
 {
     public class RouteConfig
     {

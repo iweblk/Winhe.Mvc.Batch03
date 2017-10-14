@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Winhe.Mvc.Batch03.WebApi2")]
+[assembly: AssemblyTitle("Winhe.Mvc.Batch03.Mvc")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Winhe.Mvc.Batch03.WebApi2")]
+[assembly: AssemblyProduct("Winhe.Mvc.Batch03.Mvc")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d1a0bbb5-d53a-4d7b-8991-159070845647")]
+[assembly: Guid("99eb5732-0384-4e06-84ab-4ae1b2dc349c")]
 
 // Version information for an assembly consists of the following four values:
 //
