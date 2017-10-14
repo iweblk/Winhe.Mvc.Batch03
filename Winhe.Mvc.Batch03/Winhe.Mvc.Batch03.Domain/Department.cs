@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Winhe.Mvc.Batch03.Domain
 {
-    public class Class1
+    public class Department
     {
     }
 }
